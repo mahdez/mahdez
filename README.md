@@ -3,12 +3,13 @@
 </br></br>
 This my Trophy ! &#129322;
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mahdez&no-frame=true&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=mahdez&no-frame=true&theme=nord)
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdez&theme=nord&layout=compact)
 
-
-
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mahdez&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdez&layout=compact" />
+</div>
 <!--
 **mahdez/mahdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
