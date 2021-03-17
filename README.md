@@ -1,7 +1,7 @@
 ### Hi there 👋
   I'm M.Mahdee Rao 
 </br></br>
-This my Trophy ! &#129322;
+### This is my Trophy ! &#129322;
 
 ![](https://github-profile-trophy.vercel.app/?username=mahdez&no-frame=true&theme=nord)
 <hr>
@@ -10,6 +10,7 @@ This my Trophy ! &#129322;
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mahdez&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdez&layout=compact" />
 </div>
+
 <!--
 **mahdez/mahdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=mahdez.mahdez)
